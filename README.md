@@ -1,6 +1,6 @@
 # ESP8266/ESP32 Renk Yakalama Oyunu (TFT Color Catch Game) 
 
-Bu proje, bir **ESP8266** veya **ESP32** mikrodenetleyici, renkli TFT ekran ve bir döner enkoder kullanılarak geliştirilmiş, refleks ve renk eşleştirme becerisi gerektiren iki seviyeli ilk ve orta derece kademesine yönelik bir oyunudur.
+Bu proje, bir **ESP8266** veya **ESP32** mikrodenetleyici, renkli TFT ekran ve bir döner enkoder kullanılarak geliştirilmiş, refleks ve renk eşleştirme becerisi gerektiren,iki aşamadan oluşan;  ilk ve orta derece kademesine yönelik bir oyundur.
 
 ##  Proje Özeti ve Temel Özellikler
 
