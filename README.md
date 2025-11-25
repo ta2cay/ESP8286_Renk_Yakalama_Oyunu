@@ -96,3 +96,25 @@ Kod, topların hareketini **Seviye 2**'de önemli ölçüde zorlaştırır:
 3.  **Seçim:** Enkoderi çevirerek **EVET** veya **HAYIR** seçeneğini belirleyin.
 4.  **Otomatik Başlatma:** Eğer **EVET** seçiliyse, 5 saniyelik geri sayım sonunda oyun otomatik başlar.
 5.  **Oyun İçi:** Enkoderi çevirerek yakalama çubuğunuzun rengini değiştirin ve aynı renkli topları yakalamaya çalışın!
+
+# 🎮 YENİ VERSİYON: 
+# 🎮 ESP8266 Renk Yakalama Oyunu (v2.0)
+
+## 🌟 Yenilikler (v2.0)
+* **🇹🇷 Yeni Arayüz:** Geliştirilmiş Türk Bayrağı 
+* **🔥 Kombo Sistemi:** Art arda doğru yakalamalarda "SÜPER!" ve "EFSANE!" efektleri.
+* **🏆 Rekor Kaydı:** En yüksek skor hafızada (EEPROM) tutulur.
+* **⚡ Akıcı Oyun:** Takılmayan ses ve animasyon motoru.
+* **❤️ Can Sistemi:** Kalp toplayarak can arttırma (Sınırsız).
+
+## 🕹️ Nasıl Oynanır?
+1.  **Encoder'ı Çevir:** Alttaki barı sağa/sola hareket ettir.
+2.  **Rengini Yakala:** Barın rengiyle aynı renkteki topları yakala (+10 Puan).
+3.  **Kalpleri Topla:** Beyaz kalpleri kaçırma, can kazan!
+4.  **Dikkat Et:** Yanlış renge değersen canın azalır.
+
+## 🛠️ Donanım
+* NodeMCU / Wemos D1 Mini (ESP8266)
+* TFT LCD Ekran (ST7789 veya ILI9341)
+* Rotary Encoder
+* Buzzer & LED
